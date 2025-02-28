@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Loans Service QA"
+  message: "Loans Service QA after rabbitMq"
   contactDetails:
     name: "QA Anand Bajpai"
     email: "qab@gmail.com"
