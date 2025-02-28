@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Accounts Service QA"
+  contactDetails:
+    name: "QA Anand Bajpai"
+    email: "qab@gmail.com"
+  onCallSupport:
+    - 83719
+    - 72035

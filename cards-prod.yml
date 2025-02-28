@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Cards Service Production"
+  contactDetails:
+    name: "PROD Anand Bajpai"
+    email: "pab@gmail.com"
+  onCallSupport:
+    - 91402
+    - 95601
