@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Loans Service Production"
+  message: "Loans Service Production after rabbitMq"
   contactDetails:
     name: "PROD Anand Bajpai"
     email: "pab@gmail.com"
