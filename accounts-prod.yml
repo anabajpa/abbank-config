@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts Service Production after rabbitMq and config monitor in config server"
+  message: "Accounts Service Production after rabbitMq and config monitor in config server!!!"
   contactDetails:
     name: "PROD Anand Bajpai"
     email: "pab@gmail.com"
