@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Cards Service Production after rabbitMq"
+  message: "Cards Service Production after docker ####"
   contactDetails:
     name: "PROD Anand Bajpai"
     email: "pab@gmail.com"
